@@ -8,7 +8,7 @@ class FreelanceApplicationTests {
 
     @Test
     void contextLoads(String flag1) {
-    	System.out.println("test");
+		System.out.println("123");
     }
 
 }
