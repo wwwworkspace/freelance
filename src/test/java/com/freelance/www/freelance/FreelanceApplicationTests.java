@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class FreelanceApplicationTests {
 
     @Test
-    void contextLoads() {
+    void contextLoads(String flag) {
     }
 
 }
