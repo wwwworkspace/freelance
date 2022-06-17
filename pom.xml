@@ -37,7 +37,7 @@
         <druid.spring.boot.starter.version>1.1.1</druid.spring.boot.starter.version>
         <common.lang3.version>3.4</common.lang3.version>
         <spring.boot.starter.aop>2.2.0.RELEASE</spring.boot.starter.aop>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <shiro.version>1.2.3</shiro.version>
     </properties>
     <dependencyManagement>
